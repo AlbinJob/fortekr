@@ -1,0 +1,19 @@
+{
+  "name": "express-parameters",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "~4.10.2",
+    "http": "^0.0.0",
+    "mysql": "^2.13.0",
+    "aws-iot-device-sdk": "^2.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "1.0.0",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
